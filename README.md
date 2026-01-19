@@ -24,8 +24,8 @@ Hi 👋, I'm VaishviAgrawal  <br><br>Computer Science Engineering Student from I
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaishviagrawal06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vaishviagrawal06&theme=tokyonight)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
