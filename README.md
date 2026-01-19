@@ -10,8 +10,8 @@ Hi 👋, I'm VaishviAgrawal  <br><br>Computer Science Engineering Student from I
 
 
 
-## 👀 Visitors Count
-[![](https://visitcount.itsvg.in/api?id=vaishviagrawal06&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vaishviagrawal06&icon=5&color=12)](https://visitcount.itsvg.in)
+
 
 
 # 💻 Tech Stack:
