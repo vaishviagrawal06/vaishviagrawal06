@@ -8,6 +8,7 @@ Hi 👋, I'm VaishviAgrawal  <br><br>Computer Science Engineering Student from I
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vaishviagugzt/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vaishviagrawal06)
 
+![Snake animation](https://github.com/vaishviagrawal06/vaishviagrawal06/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 [![](https://visitcount.itsvg.in/api?id=vaishviagrawal06&icon=5&color=12)](https://visitcount.itsvg.in)
@@ -21,7 +22,7 @@ Hi 👋, I'm VaishviAgrawal  <br><br>Computer Science Engineering Student from I
 ![](https://nirzak-streak-stats.vercel.app/?user=vaishviagrawal06&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishviagrawal06&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/vaishviagrawal06/vaishviagrawal06/blob/output/github-contribution-grid-snake.gif)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaishviagrawal06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
