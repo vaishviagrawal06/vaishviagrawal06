@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,14&height=140&section=header&text=Vaishvi%20Agrawal&fontSize=55&fontAlignY=55&animation=twinkling" />
 
-### 🌸 CSE Student • Frontend Learner • Java + DSA Explorer 🇮🇳
+### 🌸 CSE Student • Frontend Learner • Java + DSA Explorer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Frontend+%7C+HTML+CSS+JavaScript;Java+%7C+DSA+%7C+SQL+in+progress;I+love+clean+and+responsive+UI+✨;Learning+everyday+%F0%9F%92%AA" />
 
@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 
-🎓 I'm **Vaishvi Agrawal**, a **Computer Science Engineering Student** from India 🇮🇳  
+🎓 I'm **Vaishvi Agrawal**, a **Computer Science Engineering Student** 
 I enjoy building **responsive websites**, improving my **Java + DSA**, and making UI look **clean & professional** ✨
 
 ✅ **Currently Working On:** Responsive web projects + mini Java applications  
