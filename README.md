@@ -51,8 +51,11 @@ I enjoy building **responsive websites**, improving my **Java + DSA**, and makin
 <p align="center"> <img src="https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C-6C63FF?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-6C63FF?style=for-the-badge&logo=javascript&logoColor=white" /> </p>
 🎨 Frontend
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" /> </p>
+
 🗄️ Database
 <p align="center"> <img src="https://img.shields.io/badge/MySQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+
+
 🧰 Tools
 <p align="center"> <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=white" /> </p>
 📌 Featured Projects (Add your best ones)
