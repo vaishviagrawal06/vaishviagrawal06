@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=ushantsingh/ushantsingh&label=VISITORS&countColor=%2337d67a" alt="visitor badge" />
+</p>
+
 # 💫 About Me:
 Hi 👋, I'm VaishviAgrawal  <br><br>Computer Science Engineering Student from India 🇮🇳  <br><br>**🔭 I’m currently working on:** Responsive web development projects + mini Java applications  <br>**🌱 I’m currently learning:** Java (DSA) + C++ + Frontend + SQL  <br>**👯 I’m looking to collaborate on:** Frontend web projects and beginner-friendly open source  <br>**🤔 I’m looking for help with:** Backend development, APIs, and database integration  <br>**💬 Ask me about:** HTML, CSS, JavaScript, Java, C, C++ and basic DSA  <br>**⚡ Fun fact:** I love making simple websites look clean and professional ✨  <br>
 
