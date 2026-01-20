@@ -46,31 +46,46 @@ I enjoy building **responsive websites**, improving my **Java + DSA**, and makin
 
 ---
 
-##🛠️ Skills & Tools
-👩‍💻 Languages
-<p align="center"> <img src="https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C-6C63FF?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-6C63FF?style=for-the-badge&logo=javascript&logoColor=white" /> </p>
-🎨 Frontend
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" /> </p>
+<h1 align="left">💻 Tech Stack</h1>
 
-🗄️ Database
-<p align="center"> <img src="https://img.shields.io/badge/MySQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+---
 
+<h2 align="center">🗣️ Languages</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
 
-🧰 Tools
-<p align="center"> <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=white" /> </p>
-📌 Featured Projects (Add your best ones)
+---
 
-✅ 1) Responsive Portfolio Website
-⭐ HTML + CSS + JavaScript
-🔗 Live: Add Link Here • Code: Add Repo Here
+<h2 align="center">🎨 Frontend</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-✅ 2) Java Mini Projects
-⭐ Java + OOP Concepts
-🔗 Repo: Add Repo Here
+---
 
-✅ 3) SQL Practice + Queries
-⭐ MySQL + DB Basics
-🔗 Repo: Add Repo Here
+<h2 align="center">🗄️ Database</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">🛠️ Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
 
 📊 GitHub Overview
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishviagrawal06&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=vaishviagrawal06&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishviagrawal06&layout=compact&theme=tokyonight&hide_border=true" /> </div>
