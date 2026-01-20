@@ -86,7 +86,7 @@ I enjoy building **responsive websites**, improving my **Java + DSA**, and makin
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-## 🐍 Contribution Snake
+## 🌱🐍 Growing Every Day with Code & Consistency 💻🔥
 
 ![Snake animation](https://github.com/vaishviagrawal06/vaishviagrawal06/blob/output/github-contribution-grid-snake-dark.svg)
 
