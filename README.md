@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=ushantsingh/ushantsingh&label=VISITORS&countColor=%2337d67a" alt="visitor badge" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=vaishviagrawal06/vaishviagrawal06&label=VISITORS&countColor=%2337d67a" alt="visitor badge" />
 </p>
 
 # 💫 About Me:
