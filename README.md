@@ -93,7 +93,7 @@ I enjoy building **responsive websites**, improving my **Java + DSA**, and makin
 📊 GitHub Overview
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishviagrawal06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishviagrawal06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=vaishviagrawal06&theme=tokyonight&hide_border=true" />
 
@@ -101,12 +101,9 @@ I enjoy building **responsive websites**, improving my **Java + DSA**, and makin
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishviagrawal06&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishviagrawal06&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
-
----
-
 🏆 Achievements
 <div align="center">
 
