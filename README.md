@@ -98,7 +98,7 @@ I enjoy building **responsive websites**, improving my **Java + DSA**, and makin
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vaishviagrawal06&theme=algolia&no-frame=true&row=1&column=7" /> </div>
 
 📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishviagrawal06&theme=react-dark&hide_border=true&area=true" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishviagrawal06&theme=react-dark&hide_border=true&area=true&cache_seconds=86400" /> </div>
 
 ✨ Quote of the Day
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
