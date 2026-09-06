@@ -37,6 +37,9 @@ Hey! I'm **Vaishvi**, a Computer Science Engineering student who genuinely enjoy
   <a href="https://leetcode.com/u/vaishviagrawal/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=yellow" />
   </a>
+  <a href="https://codeforces.com/profile/vaishvi_agrawal" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
   <a href="https://www.geeksforgeeks.org/user/vaishviagugzt/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-22C55E?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
@@ -79,25 +82,19 @@ Hey! I'm **Vaishvi**, a Computer Science Engineering student who genuinely enjoy
 
 <div align="center">
 
-<img src="https://leetcode-stats-badges.herokuapp.com/vaishviagrawal" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/vaishviagrawal?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" />
 
 </div>
 
 <p align="center">
-<a href="https://codeforces.com/profile/vaishviagrawal06" target="_blank">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces&query=%24.result[0].rating&url=https://codeforces.com/api/user.info%3Fhandles=vaishviagrawal06&color=1F8ACB&logo=codeforces&logoColor=white" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/vaishviagugzt/" target="_blank">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GFG%20Score&query=%24.info.codingScore&url=https://geeks-for-geeks-stats-api.vercel.app/?raw=Y&userName=vaishviagugzt&color=22C55E&logo=geeksforgeeks" />
-</a>
-<a href="https://www.hackerrank.com/profile/vaishviagrawal06" target="_blank">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=HackerRank&query=%24.badges&url=https://www.hackerrank.com/rest/hackers/vaishviagrawal06/badges&color=00C853&logo=hackerrank" />
+<a href="https://codeforces.com/profile/vaishvi_agrawal" target="_blank">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces%20Rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dvaishvi_agrawal&query=%24.result%5B0%5D.rating&color=1F8ACB&logo=codeforces&logoColor=white" />
 </a>
 </p>
 
 **📌 Topics I've been grinding lately:** `Arrays` `Strings` `Recursion` `Trees` `Graphs` `Dynamic Programming` `Sorting & Searching`
 
-> ⚠️ I've assumed your Codeforces handle is `vaishviagrawal06` — swap it in the URL above if that's not right. These badges pull live from LeetCode/Codeforces/GFG/HackerRank, so they'll only show numbers once your profiles have public activity — until then they may render as 0 or blank, which is normal.
+> These badges pull live from your LeetCode and Codeforces profiles, so they'll only show real numbers once there's public activity to read — until then a badge may briefly show "no result."
 
 ---
 
