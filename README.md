@@ -16,17 +16,15 @@
 
 ### 🌟 About Me
 
-```yaml
-name: Vaishvi Agrawal
-role: Computer Science Engineering Student
-focus: Data Structures & Algorithms in C++, Competitive Problem Solving
-currently_working_on: "Solving DSA problems daily (Arrays, Strings, Trees, Graphs, DP)"
-currently_learning: ["C++ (Advanced DSA)", "SQL", "Frontend basics"]
-open_to_collaborate: ["DSA study groups", "Beginner-friendly open source", "Frontend projects"]
-need_help_with: ["Advanced Graph Algorithms", "Backend", "APIs"]
-ask_me_about: ["C++", "DSA", "Java", "C", "HTML", "CSS", "JavaScript"]
-fun_fact: "I get genuinely excited when a brute force turns into an O(n log n) solution 🚀"
-```
+Hey! I'm **Vaishvi**, a Computer Science Engineering student who genuinely enjoys the "aha" moment when a brute-force solution finally turns into something clean and optimal. Most of my time these days goes into sharpening my **C++ + DSA** fundamentals — one problem, one pattern at a time.
+
+- 🔭 **Currently working on:** Solving DSA problems daily — Arrays, Strings, Trees, Graphs & Dynamic Programming
+- 🌱 **Currently learning:** Advanced C++ (STL, Graph Algorithms), SQL, and frontend basics on the side
+- 👯 **Open to collaborate on:** DSA study groups, beginner-friendly open source, and small frontend projects
+- 🤔 **Looking for help with:** Advanced graph/DP problems, backend & API integration
+- 💬 **Ask me about:** C++, DSA, Java, C, HTML/CSS/JavaScript
+- ⚡ **Fun fact:** I get unreasonably happy when an O(n²) solution becomes O(n log n) 🚀
+
 
 ---
 
@@ -51,43 +49,29 @@ fun_fact: "I get genuinely excited when a brute force turns into an O(n log n) s
 
 ## 💻 Tech Stack
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-**🧩 DSA & Core Languages**
-<p align="left">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+<h4 align="center">🧩 DSA & Core Languages</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-</td>
-<td valign="top" width="33%">
-
-**🗄️ Database & Tools**
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /><br/>
+<h4 align="center">🗄️ Database & Tools</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-</td>
-<td valign="top" width="33%">
-
-**🎨 Frontend** <sub>(basics)</sub>
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><br/>
+<h4 align="center">🎨 Frontend <sub>(basics)</sub></h4>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -97,15 +81,23 @@ fun_fact: "I get genuinely excited when a brute force turns into an O(n log n) s
 
 <img src="https://leetcode-stats-badges.herokuapp.com/vaishviagrawal" alt="LeetCode Stats" />
 
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GFG%20Score&query=%24.info.codingScore&url=https://geeks-for-geeks-stats-api.vercel.app/?raw=Y&userName=vaishviagugzt&color=22C55E&logo=geeksforgeeks" />
-
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=HackerRank&query=%24.badges&url=https://www.hackerrank.com/rest/hackers/vaishviagrawal06/badges&color=00C853&logo=hackerrank" />
-
 </div>
+
+<p align="center">
+<a href="https://codeforces.com/profile/vaishviagrawal06" target="_blank">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces&query=%24.result[0].rating&url=https://codeforces.com/api/user.info%3Fhandles=vaishviagrawal06&color=1F8ACB&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/vaishviagugzt/" target="_blank">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GFG%20Score&query=%24.info.codingScore&url=https://geeks-for-geeks-stats-api.vercel.app/?raw=Y&userName=vaishviagugzt&color=22C55E&logo=geeksforgeeks" />
+</a>
+<a href="https://www.hackerrank.com/profile/vaishviagrawal06" target="_blank">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=HackerRank&query=%24.badges&url=https://www.hackerrank.com/rest/hackers/vaishviagrawal06/badges&color=00C853&logo=hackerrank" />
+</a>
+</p>
 
 **📌 Topics I've been grinding lately:** `Arrays` `Strings` `Recursion` `Trees` `Graphs` `Dynamic Programming` `Sorting & Searching`
 
-> ⚠️ Stat badges above pull from your LeetCode/GFG/HackerRank profiles — some third-party badge APIs go down occasionally. If a badge shows blank, let me know and I'll swap in a stable alternative.
+> ⚠️ I've assumed your Codeforces handle is `vaishviagrawal06` — swap it in the URL above if that's not right. These badges pull live from LeetCode/Codeforces/GFG/HackerRank, so they'll only show numbers once your profiles have public activity — until then they may render as 0 or blank, which is normal.
 
 ---
 
@@ -143,16 +135,20 @@ fun_fact: "I get genuinely excited when a brute force turns into an O(n log n) s
 ## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vaishviagrawal06&theme=algolia&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=vaishviagrawal06&theme=algolia&column=4&row=2&margin-w=10&margin-h=10&no-bg=false" />
 </div>
+
+> Trophies always render — ranks (S/A/B/C) just fill in as your commits, stars, PRs, issues, and repos grow. Even a fresh profile shows all 8 categories at a starting rank.
 
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishviagrawal06&theme=react-dark&hide_border=true&area=true&cache_seconds=86400" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishviagrawal06&theme=react-dark&hide_border=true&area=true&custom_title=Vaishvi's%20Contribution%20Graph&cache_seconds=86400" />
 </div>
+
+> This graph plots your **public** commit activity over the last year. If it looks flat right now, it's usually because recent commits are in private repos — enable "Include private contributions" in your GitHub profile settings (or make a couple of small public commits) and it'll fill in within a day.
 
 ---
 
