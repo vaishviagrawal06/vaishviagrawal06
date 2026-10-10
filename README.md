@@ -78,26 +78,6 @@ Hey! I'm **Vaishvi**, a Computer Science Engineering student who genuinely enjoy
 
 ---
 
-## 🧠 DSA & Problem Solving Journey
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/vaishviagrawal?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" />
-
-</div>
-
-<p align="center">
-<a href="https://codeforces.com/profile/vaishvi_agrawal" target="_blank">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces%20Rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dvaishvi_agrawal&query=%24.result%5B0%5D.rating&color=1F8ACB&logo=codeforces&logoColor=white" />
-</a>
-</p>
-
-**📌 Topics I've been grinding lately:** `Arrays` `Strings` `Recursion` `Trees` `Graphs` `Dynamic Programming` `Sorting & Searching`
-
-> These badges pull live from your LeetCode and Codeforces profiles, so they'll only show real numbers once there's public activity to read — until then a badge may briefly show "no result."
-
----
-
 ## 🐍 Growing Every Day with Code & Consistency 🔥
 
 <div align="center">
