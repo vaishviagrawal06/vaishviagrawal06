@@ -96,7 +96,6 @@ Hey! I'm **Vaishvi**, a Computer Science Engineering student who genuinely enjoy
 </div>
 
 ### 🧊 3D Contribution Calendar *(unique visual — updates via GitHub Action)*
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/vaishviagrawal06/vaishviagrawal06/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="70%" />
 
