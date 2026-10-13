@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E7BFF,100:22C55E&height=220&section=header&text=Hey,%20I'm%20Vaishvi%20👋&fontSize=45&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=C%2B%2B%20(DSA)%20Enthusiast%20•%20Problem%20Solver%20•%20CSE%20Student&descAlignY=58&descSize=18" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Solving+DSA+Problems+in+C%2B%2B+%F0%9F%A7%A9;Arrays+%7C+Trees+%7C+Graphs+%7C+DP;Java+%7C+SQL+%7C+Frontend+basics+too;Debugging+is+just+being+a+detective+%F0%9F%94%8D;One+problem+a+day+keeps+the+doubt+away+%F0%9F%92%AA" />
 
 <p>
