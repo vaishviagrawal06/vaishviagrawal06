@@ -65,12 +65,21 @@ int main() {
 
 ## `~/github-stats`
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/vaishviagrawal06?affiliations=OWNER&style=for-the-badge&color=6C63FF&labelColor=0F172A&label=TOTAL%20STARS" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/vaishviagrawal06?style=for-the-badge&color=22C55E&labelColor=0F172A&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/commit-activity/y/vaishviagrawal06/vaishviagrawal06?style=for-the-badge&color=22C55E&labelColor=0F172A&label=COMMITS%20(YEAR)" alt="Commits" />
-</p>
+<div align="center">
 
+<img src="https://streak-stats.demolab.com?user=vaishviagrawal06&theme=dark&hide_border=false&border=22C55E&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=22C55E44" alt="GitHub streak stats" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaishviagrawal06&theme=github_dark" alt="Profile details" width="100%" />
+
+<br/>
+
+<img src="https://img.shields.io/github/stars/vaishviagrawal06?affiliations=OWNER&style=for-the-badge&color=6C63FF&labelColor=0F172A&label=TOTAL%20STARS" alt="Stars" />
+<img src="https://img.shields.io/github/followers/vaishviagrawal06?style=for-the-badge&color=22C55E&labelColor=0F172A&label=FOLLOWERS" alt="Followers" />
+<img src="https://img.shields.io/github/commit-activity/y/vaishviagrawal06/vaishviagrawal06?style=for-the-badge&color=22C55E&labelColor=0F172A&label=COMMITS%20(YEAR)" alt="Commits" />
+
+</div>
 ---
 
 ## `~/daily-grind`
