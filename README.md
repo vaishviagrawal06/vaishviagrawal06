@@ -56,7 +56,7 @@ int main() {
 
 <p align="center">
   <a href="https://leetcode.com/u/vaishviagrawal/"><img src="https://img.shields.io/badge/LeetCode-vaishviagrawal-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F172A" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/Vaishvi_Agrawal06"><img src="https://img.shields.io/badge/Codeforces-vaishvi__agrawal-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0F172A" alt="Codeforces" /></a>
+  <a href="https://codeforces.com/profile/Vaishvi_Agrawal06"><img src="https://img.shields.io/badge/Codeforces-vaishvi__agrawal06-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0F172A" alt="Codeforces" /></a>
   <a href="https://www.geeksforgeeks.org/user/vaishviagugzt/"><img src="https://img.shields.io/badge/GeeksforGeeks-vaishviagugzt-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0F172A" alt="GeeksforGeeks" /></a>
   <a href="https://www.linkedin.com/in/vaishvi-agrawal-792407331/"><img src="https://img.shields.io/badge/LinkedIn-Vaishvi%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn" /></a>
 </p>
